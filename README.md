@@ -1,4 +1,4 @@
-# docker-postgres-dvd-rental
+# docker-postgres-dvdrental
 
 ## Usage
 
